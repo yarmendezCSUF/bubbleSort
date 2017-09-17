@@ -1,0 +1,7 @@
+C:\tyto\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe.config
+C:\tyto\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe
+C:\tyto\bubble_sort\bubble_sort\bin\Debug\bubble_sort.pdb
+C:\tyto\bubble_sort\bubble_sort\obj\Debug\bubble_sort.Properties.Resources.resources
+C:\tyto\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.GenerateResource.Cache
+C:\tyto\bubble_sort\bubble_sort\obj\Debug\bubble_sort.exe
+C:\tyto\bubble_sort\bubble_sort\obj\Debug\bubble_sort.pdb
